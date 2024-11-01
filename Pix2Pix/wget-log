@@ -1,0 +1,56 @@
+
+--2024-10-22 01:44:52--  (try:10)  http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/facades.tar.gz
+Connecting to efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)|128.32.244.190|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2024-10-22 02:00:02--  (try:11)  http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/facades.tar.gz
+Connecting to efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)|128.32.244.190|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2024-10-22 02:15:13--  (try:12)  http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/facades.tar.gz
+Connecting to efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)|128.32.244.190|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2024-10-22 02:30:23--  (try:13)  http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/facades.tar.gz
+Connecting to efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)|128.32.244.190|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2024-10-22 02:45:33--  (try:14)  http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/facades.tar.gz
+Connecting to efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)|128.32.244.190|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2024-10-22 03:00:43--  (try:15)  http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/facades.tar.gz
+Connecting to efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)|128.32.244.190|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2024-10-22 03:15:54--  (try:16)  http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/facades.tar.gz
+Connecting to efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)|128.32.244.190|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2024-10-22 03:31:04--  (try:17)  http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/facades.tar.gz
+Connecting to efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)|128.32.244.190|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2024-10-22 03:46:14--  (try:18)  http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/facades.tar.gz
+Connecting to efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)|128.32.244.190|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2024-10-22 04:01:24--  (try:19)  http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/facades.tar.gz
+Connecting to efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)|128.32.244.190|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2024-10-22 04:16:34--  (try:20)  http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/facades.tar.gz
+Connecting to efrosgans.eecs.berkeley.edu (efrosgans.eecs.berkeley.edu)|128.32.244.190|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
